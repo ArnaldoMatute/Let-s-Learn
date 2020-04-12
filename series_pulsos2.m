@@ -9,7 +9,7 @@ NC=10; %Number Of Cycles
 ts=0.01; %Sampling Time
 xp=generate_pulses(A,DC,T,NC,ts);
 xs=generate_sawtooth(A,T,NC,ts);
-N=[1 2 3 5 8 10 15 22 35 45 50 75];
+N=[1 2 3 5 8 10 15 22 35 45 50 75 80];
 
 for k=1:length(N)
     yp=FS_pulse(N(k),A,DC,T,NC,ts);
