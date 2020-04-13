@@ -16,3 +16,7 @@ The Notebook [KNN1.ipynb](https://github.com/ArnaldoMatute/Let-s-Learn/blob/mast
 The notebook [NN_fromTheSratch.ipynb](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/NN_FromTheScratch.ipynb) is a Jupyter Notebook with Python code that shows shows how to create and train a Neural Network form the scratch. Layers was instanced with a defined class "neural_layer". Functions for execution and training based on Backpropagations with Gradient Descent are also there. This example considers a random data in a "chess-board-like" squared distribution.
 
 The notebook [NN_fromTheSratchII.ipynb](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/NN_FromTheScratchII.ipynb) is a Jupyter Notebook with Python code that shows how to create and train a Neural Network form the scratch. Layers was instanced with a defined class "neural_layer".  Functions for execution and training based on Backpropagations with Gradient Descent are also there. This example considers a random data in circle distribution using make_circles() from Scikit Learn.
+
+## Numerical Methods
+
+Some coding made in Mathworks Matlab or Python are also included to teach about [Newton-Raphson Method](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/NR.py) to solve non-linear equations and also for ODEs ([Euler](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/euler_2nd_Order.py) and [Heun](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/HEUN_METHOD_2_ORDER.m) methods)
