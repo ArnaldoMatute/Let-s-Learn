@@ -17,7 +17,7 @@ The file [series_pulsos2.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/ma
 
 The file [dft.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/dft.m) is a Mathworks Matlab code that shows how Spectrum resolution grows as a consequence of Zero-Padding. The more zeros are concatenated next to the original discrete signal, the more resolution the spectrum has as a consequence of increasing the period N.
 
-The file [filtering_comparison.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/filtering_comparison.m) is a Mathworks Matlab code that shows an arbitrary signal being filtered, in the middle graphs, by a set Blackmann-Harris FIR lowpass filters of 2nd, 4th, 8th, 16th and 64th order. Likewise, the bottom graphs shows the  equivalent effect for a set ofButterworth IIR low pass filter for the same list of orders. The signal in the time domain are graphed al the left and spectra are shown in the right. The normalized cuttoff Frecuency for all filters is 0.118.  
+The file [filtering_comparison.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/filtering_comparison.m) is a Mathworks Matlab code that shows an arbitrary signal being filtered, in the middle graphs, by a set Blackmann-Harris FIR lowpass filters of 2nd, 4th, 8th, 16th and 64th order. Likewise, the bottom graphs show the equivalent effect for a set of Butterworth IIR lowpass filters for the same list of orders. The signal in the time domain are graphed al the left and spectra are shown in the right. The normalized cuttoff Frecuency for all filters is 0.118.  
 
 ## Numerical Methods (This course has not been offered this semester)
 
