@@ -37,7 +37,7 @@ for order=1:5
     subplot(3,2,2)
     stem(k(1:length(k)/2),abs(x(2,1:length(k)/2)),'r')
     ylabel('Original Signal')
-    xlabel('Normalized Frecuency [1/sample]')
+    xlabel('Normalized Frecuency')
     
     subplot(3,2,3)
     stem(n(1:u),xf{1,1}(order,1:u))
@@ -48,7 +48,7 @@ for order=1:5
     subplot(3,2,4)
     stem(k(1:length(k)/2),abs(xf{1,2}(order,1:length(k)/2)),'r')
     ylabel('Spectrum - Original Signal')
-    xlabel('Frecuency [rad/sample]')
+    xlabel('Normalized Frecuency')
     
     subplot(3,2,5)
     stem(n(1:u),xf{2,1}(order,1:u))
@@ -59,7 +59,7 @@ for order=1:5
     subplot(3,2,6)
     stem(k(1:length(k)/2),abs(xf{2,2}(order,1:length(k)/2)),'r')
     ylabel('Spectrum - Original Signal')
-    xlabel('Frecuency [rad/sample]')
+    xlabel('Normalized Frecuency')
      
-    pause(2)
+    pause(1.25)
 end 
