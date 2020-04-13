@@ -19,6 +19,6 @@ The file [dft.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/dft.m)
 
 The file [filtering_comparison.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/filtering_comparison.m) is a Mathworks Matlab code that shows an arbitrary signal being filtered, in the middle graphs, by a set Blackmann-Harris FIR lowpass filters of 2nd, 4th, 8th, 16th and 64th order. Likewise, the bottom graphs shows the  equivalent effect for a set ofButterworth IIR low pass filter for the same list of orders. The signal in the time domain are graphed al the left and spectra are shown in the right. The normalized cuttoff Frecuency for all filters is 0.118.  
 
-## Numerical Methods (This couser has not been offered this semester)
+## Numerical Methods (This course has not been offered this semester)
 
 Some coding made in Mathworks Matlab or Python are also included to teach about [Newton-Raphson Method](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/NR.py) to solve non-linear equations and also for ODEs ([Euler](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/euler_2nd_Order.py) and [Heun](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/HEUN_METHOD_2_ORDER.m) methods)
