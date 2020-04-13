@@ -1,10 +1,10 @@
 # Some files I use for my lectures in Digital Signal Processing, Machine Learning, Advanced Maths...
 
-## Advanced Maths. 
+## Advanced Maths
 
 The file [series_pulsos2.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/series_pulsos2.m) is a Matworks Matlab code that shows how the more terms are considered in the partial sum, the closer the approximation is to the original periodic function. The file [generate_pulses.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/generate_pulses.m) plots an original squared periodic function and [generate_sawtooth.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/generate_sawtooth.m) does the same for a Sawtooth like function. [FS_pulses.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/FS_pulse.m) and [FS_Sawtooth.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/FS_sawtooth.m) calculates the partial sum of each Fourier Series for a parameter `N`.   
 
-## Digital Signals Processing. 
+## Digital Signals Processing 
 
 The file [dft.m](https://github.com/ArnaldoMatute/Let-s-Learn/blob/master/dft.m) shows how Spectrum resolution grows as a consequence of Zero-Padding. The more zeros are concatenated next to the original discrete signal, the more resolution the spectrum has as a consequence of increasing the period N.
 
